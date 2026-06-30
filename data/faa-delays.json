@@ -1,1 +1,1 @@
-{"updated":"2026-06-30T06:54:05Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"OKC","icao":"KOKC","program":"ground_delay","reason":"other","bounds":{"avg":120,"max":224},"end_time":"","since":1782796744}]}
+{"updated":"2026-06-30T06:59:04Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"OKC","icao":"KOKC","program":"ground_delay","reason":"other","bounds":{"avg":120,"max":224},"end_time":"","since":1782796744}]}
