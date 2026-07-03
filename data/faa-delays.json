@@ -1,1 +1,1 @@
-{"updated":"2026-07-03T12:14:05Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"DCA","icao":"KDCA","program":"ground_delay","reason":"air show","bounds":{"avg":15,"max":35},"end_time":"","since":1783078745}]}
+{"updated":"2026-07-03T12:19:05Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"DCA","icao":"KDCA","program":"ground_delay","reason":"air show","bounds":{"avg":15,"max":35},"end_time":"","since":1783078745}]}
