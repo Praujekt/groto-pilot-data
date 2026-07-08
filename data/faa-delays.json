@@ -1,1 +1,1 @@
-{"updated":"2026-07-08T12:49:11Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"DFW","icao":"KDFW","program":"arr_dep","reason":"WX:Thunderstorms","bounds":{"min":16,"max":30},"end_time":"","since":1783514045}]}
+{"updated":"2026-07-08T12:54:07Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"DFW","icao":"KDFW","program":"arr_dep","reason":"WX:Thunderstorms","bounds":{"min":31,"max":45},"end_time":"","since":1783514045}]}
