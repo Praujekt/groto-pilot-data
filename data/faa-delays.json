@@ -1,1 +1,1 @@
-{"updated":"2026-07-20T05:59:09Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"SFO","icao":"KSFO","program":"ground_delay","reason":"other","bounds":{"avg":69,"max":129},"end_time":"","since":1784506147}]}
+{"updated":"2026-07-20T06:04:11Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"SFO","icao":"KSFO","program":"ground_delay","reason":"other","bounds":{"avg":69,"max":129},"end_time":"","since":1784506147}]}
