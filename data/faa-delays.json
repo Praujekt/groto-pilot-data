@@ -1,1 +1,1 @@
-{"updated":"2026-07-23T11:49:08Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"BWI","icao":"KBWI","program":"arr_dep","reason":"RWY:Construction","bounds":{"min":16,"max":30},"end_time":"","since":1784806146}]}
+{"updated":"2026-07-23T11:54:07Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"BWI","icao":"KBWI","program":"arr_dep","reason":"RWY:Construction","bounds":{"min":16,"max":30},"end_time":"","since":1784806146}]}
