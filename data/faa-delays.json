@@ -1,1 +1,1 @@
-{"updated":"2026-07-25T20:09:08Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"EWR","icao":"KEWR","program":"ground_delay","reason":"other","bounds":{"avg":83,"max":143},"end_time":"","since":1785008654}]}
+{"updated":"2026-07-25T20:14:08Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"EWR","icao":"KEWR","program":"ground_delay","reason":"other","bounds":{"avg":83,"max":143},"end_time":"","since":1785008654}]}
