@@ -1,1 +1,1 @@
-{"updated":"2026-08-05T04:59:15Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"JFK","icao":"KJFK","program":"arr_dep","reason":"TM Initiatives:MIT:VOL","bounds":{"min":16,"max":30},"end_time":"","since":1785888247}]}
+{"updated":"2026-08-05T05:04:09Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"JFK","icao":"KJFK","program":"arr_dep","reason":"TM Initiatives:MIT:VOL","bounds":{"min":16,"max":30},"end_time":"","since":1785888247}]}
