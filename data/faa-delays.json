@@ -1,1 +1,1 @@
-{"updated":"2026-08-14T05:29:09Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"DEN","icao":"KDEN","program":"ground_delay","reason":"thunderstorms","bounds":{"avg":252,"max":534},"end_time":"","since":1786651750}]}
+{"updated":"2026-08-14T05:34:08Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"DEN","icao":"KDEN","program":"ground_delay","reason":"thunderstorms","bounds":{"avg":252,"max":534},"end_time":"","since":1786651750}]}
