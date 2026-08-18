@@ -1,1 +1,1 @@
-{"updated":"2026-08-18T19:49:10Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"LGA","icao":"KLGA","program":"arr_dep","reason":"TM Initiatives:Metering:VOL","bounds":{"min":31,"max":45},"end_time":"","since":1787082272}]}
+{"updated":"2026-08-18T19:54:31Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"LGA","icao":"KLGA","program":"arr_dep","reason":"TM Initiatives:Metering:VOL","bounds":{"min":31,"max":45},"end_time":"","since":1787082272}]}
