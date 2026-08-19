@@ -1,1 +1,1 @@
-{"updated":"2026-08-19T20:59:09Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"YUL","icao":"KYUL","program":"ground_delay","reason":"other","bounds":{"avg":38,"max":88},"end_time":"","since":1787170156}]}
+{"updated":"2026-08-19T21:04:13Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"YUL","icao":"KYUL","program":"ground_delay","reason":"other","bounds":{"avg":38,"max":88},"end_time":"","since":1787170156}]}
