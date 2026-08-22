@@ -1,1 +1,1 @@
-{"updated":"2026-08-22T11:54:30Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"AUS","icao":"KAUS","program":"ground_delay","reason":"runway maintenance","bounds":{"avg":29,"max":68},"end_time":"","since":1787396048}]}
+{"updated":"2026-08-22T11:59:08Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"AUS","icao":"KAUS","program":"ground_delay","reason":"runway maintenance","bounds":{"avg":29,"max":68},"end_time":"","since":1787396048}]}
