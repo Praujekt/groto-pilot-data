@@ -1,1 +1,1 @@
-{"updated":"2026-09-02T12:09:10Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"DTW","icao":"KDTW","program":"arr_dep","reason":"RWY:Construction","bounds":{"min":16,"max":30},"end_time":"","since":1788343750}]}
+{"updated":"2026-09-02T12:14:15Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"DTW","icao":"KDTW","program":"arr_dep","reason":"RWY:Construction","bounds":{"min":16,"max":30},"end_time":"","since":1788343750}]}
