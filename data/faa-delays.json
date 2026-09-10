@@ -1,1 +1,1 @@
-{"updated":"2026-09-10T10:39:10Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"MIA","icao":"KMIA","program":"ground_delay","reason":"disabled aircraft on the runway","bounds":{"avg":52,"max":92},"end_time":"","since":1789036451}]}
+{"updated":"2026-09-10T10:44:10Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"MIA","icao":"KMIA","program":"ground_delay","reason":"disabled aircraft on the runway","bounds":{"avg":52,"max":92},"end_time":"","since":1789036451}]}
