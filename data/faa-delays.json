@@ -1,1 +1,1 @@
-{"updated":"2026-09-27T11:29:16Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"LGA","icao":"KLGA","program":"ground_delay","reason":"low visibility","bounds":{"avg":51,"max":180},"end_time":"","since":1790505551}]}
+{"updated":"2026-09-27T11:34:11Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"LGA","icao":"KLGA","program":"ground_delay","reason":"low visibility","bounds":{"avg":51,"max":180},"end_time":"","since":1790505551}]}
