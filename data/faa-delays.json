@@ -1,1 +1,1 @@
-{"updated":"2026-09-29T04:39:19Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"LAS","icao":"KLAS","program":"ground_delay","reason":"thunderstorms","bounds":{"avg":202,"max":385},"end_time":"","since":1790631253}]}
+{"updated":"2026-09-29T04:44:11Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"LAS","icao":"KLAS","program":"ground_delay","reason":"thunderstorms","bounds":{"avg":202,"max":385},"end_time":"","since":1790631253}]}
