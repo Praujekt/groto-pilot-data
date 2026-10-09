@@ -1,1 +1,1 @@
-{"updated":"2026-10-09T11:34:02Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"BOS","icao":"KBOS","program":"ground_delay","reason":"wind","bounds":{"avg":88,"max":216},"end_time":"","since":1791544443}]}
+{"updated":"2026-10-09T11:39:10Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"BOS","icao":"KBOS","program":"ground_delay","reason":"wind","bounds":{"avg":88,"max":216},"end_time":"","since":1791544443}]}
