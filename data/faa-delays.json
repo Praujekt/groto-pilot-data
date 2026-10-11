@@ -1,1 +1,1 @@
-{"updated":"2026-10-11T00:24:05Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"PHX","icao":"KPHX","program":"ground_delay","reason":"other","bounds":{"avg":168,"max":325},"end_time":"","since":1791666843}]}
+{"updated":"2026-10-11T00:29:03Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"PHX","icao":"KPHX","program":"ground_delay","reason":"other","bounds":{"avg":168,"max":325},"end_time":"","since":1791666843}]}
