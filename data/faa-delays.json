@@ -1,1 +1,1 @@
-{"updated":"2026-10-17T14:09:03Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"SAN","icao":"KSAN","program":"ground_delay","reason":"airport volume","bounds":{"avg":53,"max":110},"end_time":"","since":1792245243}]}
+{"updated":"2026-10-17T14:14:03Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"SAN","icao":"KSAN","program":"ground_delay","reason":"airport volume","bounds":{"avg":53,"max":110},"end_time":"","since":1792245243}]}
