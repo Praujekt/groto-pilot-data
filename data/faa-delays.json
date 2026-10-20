@@ -1,1 +1,1 @@
-{"updated":"2026-10-20T20:49:03Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"TEB","icao":"KTEB","program":"arr_dep","reason":"VOL:Volume","bounds":{"min":46,"max":60},"end_time":"","since":1792524245}]}
+{"updated":"2026-10-20T20:54:05Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"TEB","icao":"KTEB","program":"arr_dep","reason":"VOL:Volume","bounds":{"min":46,"max":60},"end_time":"","since":1792524245}]}
