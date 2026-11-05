@@ -1,1 +1,1 @@
-{"updated":"2026-11-05T00:24:04Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"DAL","icao":"KDAL","program":"arr_dep","reason":"VOL:Volume","bounds":{"min":16,"max":30},"end_time":"","since":1793832245}]}
+{"updated":"2026-11-05T00:29:04Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"DAL","icao":"KDAL","program":"arr_dep","reason":"VOL:Volume","bounds":{"min":16,"max":30},"end_time":"","since":1793832245}]}
