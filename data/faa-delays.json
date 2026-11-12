@@ -1,1 +1,1 @@
-{"updated":"2026-11-12T05:34:05Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"SEA","icao":"KSEA","program":"ground_delay","reason":"other","bounds":{"avg":32,"max":82},"end_time":"","since":1794442145}]}
+{"updated":"2026-11-12T05:39:05Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"SEA","icao":"KSEA","program":"ground_delay","reason":"other","bounds":{"avg":32,"max":82},"end_time":"","since":1794442145}]}
