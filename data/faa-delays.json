@@ -1,1 +1,1 @@
-{"updated":"2026-11-17T21:09:05Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"LAX","icao":"KLAX","program":"arr_dep","reason":"VOL:Compacted Demand","bounds":{"min":46,"max":60},"end_time":"","since":1794947946}]}
+{"updated":"2026-11-17T21:14:06Z","source":"nasstatus.faa.gov","counts":{"ground_stops":0,"delay_programs":1},"programs":[{"airport":"LAX","icao":"KLAX","program":"arr_dep","reason":"VOL:Compacted Demand","bounds":{"min":46,"max":60},"end_time":"","since":1794947946}]}
